@@ -11,14 +11,22 @@ image:
 
 ---
 
+Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis von
+WLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalb
+der ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities,
+auch überregional ermöglichen. Um dies zu erreichen, werden Freifunkknoten,
+das sind die Router mit modifizierter Software, von freiwilligen an vielen
+Orten aufgestellt und betrieben. Jedes WLAN-fähige Gerät, beispielsweise ein
+Handy oder Notebook, kann sich in der Nähe eines solchen Knotens mit dem Netz
+verbinden und darüber mit anderen Teilnehmern kommunizieren. Auch ein Zugang
+ins Internet steht meistens zur Verfügung.
 
 
-
-
-Freifunk ist ein Projekt, das versucht ein lokales Datennetz auf Basis von WLAN-Routern aufzubauen. Dieses Netz soll eine freie Kommunikation innerhalb der ganzen Region und, mithilfe von Peerings zu anderen Freifunk-Communities, auch überregional ermöglichen. Um dies zu erreichen, werden Freifunkknoten, das sind die Router mit modifizierter Software, von freiwilligen an vielen Orten aufgestellt und betrieben. Jedes WLAN-fähige Gerät, beispielsweise ein Handy oder Notebook, kann sich in der Nähe eines solchen Knotens mit dem Netz verbinden und darüber mit anderen Teilnehmern kommunizieren. Auch ein Zugang ins Internet steht meistens zur Verfügung.
-
-
-<iframe src="//player.vimeo.com/video/64814620" height="240" width="425" class="vshare__center" allowfullscreen="" frameborder="0" scrolling="no"></iframe>
+<div class="fluid-width-video-wrapper" style="padding-top: 56.4706%;">
+    <iframe src="//player.vimeo.com/video/64814620"
+        class="vshare__center" allowfullscreen="true"
+        frameborder="0" scrolling="no"></iframe>
+</div>
 
 # Aufbau Freifunk Westerwald
 

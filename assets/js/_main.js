@@ -15,19 +15,14 @@ var navigation = responsiveNav("#site-nav", { // Selector: The ID of the wrapper
 });
 
 $('html').click(function() {
-    //Hide the menus if visible
-    if ($(navigation.wrapper).hasClass('opened')) {
-    	navigation.toggle();
-    }
+  //Hide the menus if visible
+  if ($(navigation.wrapper).hasClass('opened')) {
+  	navigation.toggle();
+  }
 });
 
 $('#site-nav').click(function(event){
     event.stopPropagation();
-});
-
-// FitVids options
-$(function() {
-	$("article").fitVids();
 });
 
 // Add lightbox class to all image links
