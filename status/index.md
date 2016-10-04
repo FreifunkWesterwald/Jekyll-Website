@@ -15,8 +15,3 @@ Zur Zeit betreiben wir keine eigene Infrastruktur, sondern nutzen die Infrastruk
 Die Freifunkkarte zeigt die Standorte der meisten Router in unserem Netz sowie einige Informationen zu deren Auslastung. Erreichen kannst du sie unter
 
 [http://map.freifunk-westerwald.de/](http://map.freifunk-westerwald.de/)
-
-# Status unserer Dienste
-Da es ab und an geplante oder ungeplante Ausfälle unserer Infrastruktur geben kann, steht eine Statuspage für unsere Dienste zur Verfügung. Hier werden auch Wartungsarbeiten angekündigt.
-
-[https://status.freifunk-westerwald.de/](https://status.freifunk-westerwald.de/)
