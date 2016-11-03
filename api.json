@@ -2,7 +2,7 @@
   "name": "Freifunk Westerwald",
   "url": "https://freifunk-westerwald.de",
   "location": {
-    "city": "Westerwald",
+    "city": "Montabaur",
     "country": "DE",
     "lat": 50.436079,
     "lon": 7.830505
@@ -13,6 +13,7 @@
     "facebook": "https://facebook.com/FreifunkWesterwald",
     "twitter": "@FreifunkWW"
   },
+  "metacommunity": "Westerwald",
   "state": {
     "focus": [
       "infrastructure/backbone",
@@ -21,7 +22,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-01-10T14:02:20.646Z"
+    "lastchange": "2016-11-03T07:22:46.894Z"
   },
   "feeds": [
     {
@@ -47,8 +48,7 @@
     "firmware": {
       "name": "GLUON",
       "url": "https://images.freifunk-westerwald.de",
-      "vpnaccess": "fwimage",
-      "registrationurl": "http://register.freifunk-myk.de/"
+      "vpnaccess": "fwimage"
     },
     "routing": [
       "batman-adv"
@@ -58,8 +58,8 @@
       "autoupdate"
     ],
     "legals": [
-      "vpninternational"
+      "institutions"
     ]
   },
-  "api": "0.4.11"
+  "api": "0.4.14"
 }
