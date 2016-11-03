@@ -9,8 +9,7 @@ image:
   credit: Ein Blick ins Statistiksystem
   creditlink: http://www.freifunk-westerwald.de
 ---
-Zur Zeit betreiben wir keine eigene Infrastruktur, sondern nutzen die Infrastruktur von Freifunk Mayen-Koblenz mit. Dennoch können wir hier einen kleinen Einblick in unser Netz geben. Im Blog findest du ab und an einen aktuellen Bericht zu einigen Netzkennzahlen.
-
+Wenn du mehr zu unserer Infrastruktur erfahren möchtest komme doch einfach mal zu einem unserer Treffen.
 # Karte
 Die Freifunkkarte zeigt die Standorte der meisten Router in unserem Netz sowie einige Informationen zu deren Auslastung. Erreichen kannst du sie unter
 
