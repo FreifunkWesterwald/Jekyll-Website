@@ -15,7 +15,7 @@ date: 2016-05-21T8:14:13+01:00
 
 #1000-Offene-Hotspots
 
-"Das mobile Internet gewinnt sowohl im privaten als auch im beruflichen Leben zunehmend an Bedeutung. [...]" Mit diesem Zitat von Ministerpräsidentin Malu Dreyer beginnt eine Pressemeldung des Landes RLP. [Link](https://www.rlp.de/de/aktuellaes/einzelansicht/news/detail/News/pilotbetrieb-gestartet/) Wir können uns dieser Aussage völlig anschließen und eben wegen der zunehmenden Bedeutung von Internet in der Lebensgestaltung, betreiben Freifunker teilweise seit mehreren Jahren freie, offene WLAN Netze.
+"Das mobile Internet gewinnt sowohl im privaten als auch im beruflichen Leben zunehmend an Bedeutung. [...]" Mit diesem Zitat von Ministerpräsidentin Malu Dreyer beginnt eine Pressemeldung des Landes RLP. [Link](https://www.rlp.de/de/aktuelles/einzelansicht/news/detail/News/pilotbetrieb-gestartet/) Wir können uns dieser Aussage völlig anschließen und eben wegen der zunehmenden Bedeutung von Internet in der Lebensgestaltung, betreiben Freifunker teilweise seit mehreren Jahren freie, offene WLAN Netze.
 
 In Zusammenarbeit mit einem großen Provider möchte die Landesregierung "Mit Ausblick auf die 17. Legislaturperiode wollen wir deshalb zeitnah mindestens 1000 WLAN-Hotspots in 1000 Kommunen schaffen".
 
