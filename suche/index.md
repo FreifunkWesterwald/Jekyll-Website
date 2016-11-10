@@ -1,18 +1,13 @@
 ---
 layout: page
 title: "Suche"
-date: 
+date:
 modified:
 excerpt:
 search_omit: true
 sitemap: false
-image:
-  feature: background_search.jpg
-  credit: CC-BY  www.gotcredit.com
-  creditlink: https://www.flickr.com/photos/jakerust/16226034713/
-
 ---
-  
+
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
   <label for="q">Search {{ site.title }} for:</label>

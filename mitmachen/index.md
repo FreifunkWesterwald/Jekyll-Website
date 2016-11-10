@@ -6,9 +6,6 @@ title: Mitmachen
 search_omit: false
 excerpt: Wie du bei Freifunk mitmachen kannst findest du auf dieser Seite.
 tags: [freifunk, mitmachen, router]
-image:
-  feature: background_mitmachen.jpg
-  credit: Boris Niehaus
 date: 2015-11-12T19:53:06+01:00
 ---
 

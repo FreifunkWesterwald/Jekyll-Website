@@ -4,15 +4,12 @@ excerpt: "Freifunkrouter einrichten"
 title: Freifunkrouter einrichten
 search_omit: false
 tags: [freifunk, mitmachen, router, flashen, Firmware, Installation, Gluon]
-image:
-  feature: background_mitmachen.jpg
-  credit: Boris Niehaus
 ---
 
 
 #Was wird gebraucht:
 
-* Internetanschluss bzw. den Zugang über einen bestehenden Freifunkknoten 
+* Internetanschluss bzw. den Zugang über einen bestehenden Freifunkknoten
 
 * Ein passendes Firmwareimage für dein Router. Du kannst es dir unter [http://images.freifunk-westerwald.de/](http://images.freifunk-westerwald.de/) herunterladen, wir erklären das nachher noch genauer.
 
@@ -22,13 +19,13 @@ Wenn du ein neuen Router kaufen möchtest, empfehlen wir folgende Modelle :
 
 |Hersteller|Modell|Anwendung|Preis|
 |----------|------|---------|-----| 	
-|TP-Link|WR841N |Einsteigermodell und kleine Anwendungen| < 20 Euro | 
-|TP-Link|WR1043ND |für gehobene Ansprüche, 5GHz, für Gastronomie und ähnliches| ca 50 Euro | 
+|TP-Link|WR841N |Einsteigermodell und kleine Anwendungen| < 20 Euro |
+|TP-Link|WR1043ND |für gehobene Ansprüche, 5GHz, für Gastronomie und ähnliches| ca 50 Euro |
 
 
 
 
-> Achtung: Beachte bitte beim Kauf das es auch von einem Routermodell mehre Versionen geben kann. Im Einzelhandel kannst du das meist am Aufdruck auf dem Karton die genaue Version erkennen. Bei Online-Händler musst du auf „gut Glück“ Bestellen oder die Version dort erfragen. 
+> Achtung: Beachte bitte beim Kauf das es auch von einem Routermodell mehre Versionen geben kann. Im Einzelhandel kannst du das meist am Aufdruck auf dem Karton die genaue Version erkennen. Bei Online-Händler musst du auf „gut Glück“ Bestellen oder die Version dort erfragen.
 
 #Image finden und Herunterladen
 
@@ -81,8 +78,8 @@ Nach klicken auf „Fertig“ hast du dein Router fertig eingerichtet.
 Wir bitten dich in deinem Router deine E-Mailadresse zu hinterlegen. Das erleichtert es uns, dich zu kontaktieren falls es Probleme mit deinem Router gibt. Bitte beachte, das diese E-Mailadresse öffentlich einsehbar ist. Wenn du das nicht möchtest, kannst du dich auch auf unserer Mailingliste (siehe [https://freifunk-westerwald.de/mitmachen/](https://freifunk-westerwald.de/mitmachen/))  registrieren. Dort ist deine E-Mailadresse nicht öffentlich einsehbar.
 
 
->ACHTUNG: Wir empfehlen ausdrücklich kein SSH Passwort auf deinem Router zu verwenden. Der Router ist aus dem Internet erreichbar und Passwörter sind nicht sicher, da die ein Angreifer sehr viel Zeit zum ausproboieren hat. 
-Wenn du dich per SSH auf deinem Router einloggen möchtest, verwende einen SSH Key. Wir werden den Login per Passwort in einer der nächsten Firmware versionen entfernen. 
+>ACHTUNG: Wir empfehlen ausdrücklich kein SSH Passwort auf deinem Router zu verwenden. Der Router ist aus dem Internet erreichbar und Passwörter sind nicht sicher, da die ein Angreifer sehr viel Zeit zum ausproboieren hat.
+Wenn du dich per SSH auf deinem Router einloggen möchtest, verwende einen SSH Key. Wir werden den Login per Passwort in einer der nächsten Firmware versionen entfernen.
 
 ![kabel](../images/anleitung/kabel.jpg)
 
@@ -104,11 +101,10 @@ Du kannst diesen Vorgang immer wieder wiederholen.
 
 #Ich komme mit der Anleitung hier nicht zu recht Was nun ?
 
-Manchmal läuft nicht alles wie gewünscht. Du kannst ganz einfach Kontakt zu uns aufbauen. Sende uns einfach eine Mail mit deinen Fragen an support@freifunk-westerwald.de oder trage dich in unsere Mailingliste ein. 
-Deine Fragen werden auf der Mailingliste dann an alle Freifunker aus unserer Community weitergeleitet. 
+Manchmal läuft nicht alles wie gewünscht. Du kannst ganz einfach Kontakt zu uns aufbauen. Sende uns einfach eine Mail mit deinen Fragen an support@freifunk-westerwald.de oder trage dich in unsere Mailingliste ein.
+Deine Fragen werden auf der Mailingliste dann an alle Freifunker aus unserer Community weitergeleitet.
 Oder besuche uns auf einem unsere regelmäßigen Treffen. Wir zeigen dir gerne wie du deine Router installieren kannst und helfen dir.
 
 
 
 > Die Inhalte stehen unter der CC Attribution-Share Alike 3.0 Unported Lizenz und wurden Ursprünglich durch Mitglieder von Freifunk MYK erstellt. (http://wiki.freifunk-myk.de/wiki/anleitung)
-
