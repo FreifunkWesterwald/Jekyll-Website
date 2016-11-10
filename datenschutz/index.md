@@ -25,7 +25,7 @@ Dazu zählen:
 
 Da das Freifunknetz auch mit dem Internet verbunden ist, bestehen hier mindestens die gleichen Gefahren wie bei der regulären Internetnutzung. Da die Nutzung eines Freifunkknotens genauso wie die Nutzung eines kommerziellen WLAN-Hotspots mit gewissen Risiken verbunden ist, empfehlen wir die Nutzung von zusätzlichen Schutzmaßnahmen. Hinweise zur Sicherheit in Öffentlichen Netzwerken finden sie unter [Sicherheit](/sicherheit)
 
-Sollten wir aufgrund von gesetzlichen Vorgaben bzw. durch Ermittlungsbehörden dazu aufgefordert werden, behalten wir uns das Recht vor weitere Daten zu erfassen und ggf. an diese weiterzuleiten. 
+Sollten wir aufgrund von gesetzlichen Vorgaben bzw. durch Ermittlungsbehörden dazu aufgefordert werden, behalten wir uns das Recht vor weitere Daten zu erfassen und ggf. an diese weiterzuleiten.
 
 
 #Datenschutz Website
@@ -33,8 +33,5 @@ Sollten wir aufgrund von gesetzlichen Vorgaben bzw. durch Ermittlungsbehörden d
 Für uns stellt der Datenschutz ein wichtiges Gut dar. Daher legen wir viel Wert darauf, dass nur so viele Daten wie nötig erfasst werden.
 
 Die Nutzung unserer Webseite ist ohne Angabe personenbezogener Daten möglich. Sollten personenbezogene Daten, z.B. eine Mailadresse oder ein Name notwendig sein, erfolgt die Angabe soweit technisch möglich auf freiwilliger Basis. Ohne die ausdrückliche Zustimmung werden keine Daten an Dritte weitergegeben oder für Andere als die angegebenen Zwecke verwendet.
-Wir verwenden zur Zeit Piwik um Statistiken über Seitenaufrufe zu erfassen. IP-Adressen werden anonymisiert erfasst, so dass keine Rückschlüsse auf die Besucher dieser Seite möglich sind. 
-Zusätzlich kannst du auf der Seite XXXXX die Erfassung deiner Daten abschalten
-(HINWEIS: Aktuell findet noch kein Tracking satt, daher kann diesem auch nicht wiedersprochen werden).
 
 Für Anregungen und Rückfragen zum Datenschutz stehen wir unter support @ freifunk-westerwald.de jederzeit zur Verfügung
