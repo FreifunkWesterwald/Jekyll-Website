@@ -47,4 +47,15 @@
       <color>#ffb128</color> <!-- optional -->
       <url>communitytreffen</url> <!-- optional -->
   </event>
+  <event>
+      <id>5</id>
+      <name>33c3</name>
+      <startdate>2016-12-26</startdate>
+      <enddate>2016-12-31</enddate> <!-- optional -->
+      <starttime>00:00</starttime> <!-- optional -->
+      <endtime>23:59</endtime> <!-- optional -->
+      <color>green</color> <!-- optional -->
+      <url>https://events.ccc.de/category/congress/33c3/</url> <!-- optional -->
+  </event>
+
 </monthly>
