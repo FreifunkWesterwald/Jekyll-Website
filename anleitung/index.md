@@ -78,7 +78,7 @@ Soll der Router auf der Freifunk Karte sichtbar werden? Du kannst entscheiden ob
 
 Nach klicken auf „Fertig“ hast du dein Router fertig eingerichtet.
 
-Wir bitten dich in deinem Router deine E-Mailadresse zu hinterlegen. Das erleichtert es uns, dich zu kontaktieren falls es Probleme mit deinem Router gibt. Bitte beachte, das diese E-Mailadresse öffentlich einsehbar ist. Wenn du das nicht möchtest, kannst du dich auch auf unserer Mailingliste (siehe [http://images.freifunk-westerwald.de/mitmachen](http://images.freifunk-westerwald.de/mitmachen))  registrieren. Dort ist deine E-Mailadresse nicht öffentlich einsehbar.
+Wir bitten dich in deinem Router deine E-Mailadresse zu hinterlegen. Das erleichtert es uns, dich zu kontaktieren falls es Probleme mit deinem Router gibt. Bitte beachte, das diese E-Mailadresse öffentlich einsehbar ist. Wenn du das nicht möchtest, kannst du dich auch auf unserer Mailingliste (siehe [https://freifunk-westerwald.de/mitmachen/](https://freifunk-westerwald.de/mitmachen/))  registrieren. Dort ist deine E-Mailadresse nicht öffentlich einsehbar.
 
 
 >ACHTUNG: Wir empfehlen ausdrücklich kein SSH Passwort auf deinem Router zu verwenden. Der Router ist aus dem Internet erreichbar und Passwörter sind nicht sicher, da die ein Angreifer sehr viel Zeit zum ausproboieren hat. 
