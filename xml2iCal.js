@@ -111,7 +111,5 @@ module.exports = function() {
 
     iCal += `END:VCALENDAR${nl}`;
 
-    console.log(iCal);
-
     fs.writeFileSync(outFileName, iCal, {encoding: 'utf-8'})
 };
