@@ -30,6 +30,7 @@
     "grunt-svgmin": "~4.0.0",
     "gulp": "^3.9.1",
     "gulp-hypher": "^1.0.3",
-    "hyphenation.de": "^0.2.1"
+    "hyphenation.de": "^0.2.1",
+    "xmldom": "^0.1.22"
   }
 }

@@ -2,7 +2,8 @@
 
 var gulp = require('gulp');
 var hypher = require('gulp-hypher');
-var hypher_de = require('hyphenation.de')
+var hypher_de = require('hyphenation.de');
+var xml2iCal = require('./xml2iCal');
 
 module.exports = function(grunt) {
 
@@ -71,6 +72,12 @@ module.exports = function(grunt) {
           '_site/*.html'
         ],
         tasks: ['gulp']
+      },
+      events: {
+        files: [
+          'termine.xml'
+        ],
+        tasks: ['xml-to-ical']
       }
     },
     clean: {
@@ -89,6 +96,10 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-gulp');
 
+  grunt.registerTask('xml-to-ical', 'Convert xml to iCal', function() {
+      xml2iCal();
+  });
+
   // Register tasks
   grunt.registerTask('default', [
     'clean',
@@ -96,9 +107,10 @@ module.exports = function(grunt) {
     'imagemin',
     'svgmin',
     'gulp',
+    'xml-to-ical',
   ]);
   grunt.registerTask('dev', [
-    'watch'
+    'watch',
   ]);
 
 };
