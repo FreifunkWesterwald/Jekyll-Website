@@ -17,9 +17,9 @@
 
   <event>
       <id>2</id>
-      <name>Communitytreffen</name>
-      <startdate>2016-11-24</startdate>
-      <enddate>2016-11-24</enddate> <!-- optional -->
+      <name>Communitytreffen Neuwied</name>
+      <startdate>2016-11-22</startdate>
+      <enddate>2016-11-22</enddate> <!-- optional -->
       <starttime>19:00</starttime> <!-- optional -->
       <endtime>22:00</endtime> <!-- optional -->
       <color>#ffb128</color> <!-- optional -->
