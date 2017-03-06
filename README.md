@@ -43,7 +43,7 @@ den Hersteller-Seiten geladen werden.
 sudo pacman -S git
 sudo pacman -S ruby
 gem install bundler
-gam install jekyll
+gem install jekyll
 sudo pacman -S nodejs
 sudo pacman -S npm #Wird bei anderen Paketmanagern oft mit node installiert
 sudo npm install -g bower
