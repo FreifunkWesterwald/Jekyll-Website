@@ -22,7 +22,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-11-03T07:22:46.894Z"
+    "lastchange": "2017-18-03T17:41:00.004Z"
   },
   "feeds": [
     {
@@ -47,7 +47,7 @@
   "techDetails": {
     "firmware": {
       "name": "GLUON",
-      "url": "https://images.freifunk-westerwald.de",
+      "url": "http://images.freifunk-westerwald.de",
       "vpnaccess": "fwimage"
     },
     "routing": [
