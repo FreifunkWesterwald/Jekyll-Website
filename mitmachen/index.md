@@ -4,7 +4,7 @@ modified:
 categories:
 title: Mitmachen
 search_omit: false
-excerpt: Wie du bei Freifunk mitmachen kannst findest du auf dieser Seite.
+excerpt: Erfahre wie du bei Freifunk mitmachen kannst
 tags: [freifunk, mitmachen, router]
 date: 2015-11-12T19:53:06+01:00
 ---
@@ -25,16 +25,16 @@ Auf unseren Treffen haben wir meist Router aus einer Sammelbestellung zu bekomme
 
 Natürlich kannst du auch zu Hause deinen eigenen Freifunkknoten basteln: Einfach ein unterstütztes Router-Modell aussuchen, beim Online-Händler deiner Wahl bestellen und innerhalb von zehn Minuten mit unserer Firmware zu einem Freifunkknoten umrüsten. Wenn du dabei Probleme hast, kannst du natürlich gerne auch mit deinem Router auf eines unserer Treffen kommen oder uns eine E-Mail schreiben. Wir helfen dir gerne dabei.
 
-Unsere Firmware findest du unter <https://images.freifunk-westerwald.de/> . Eine Anleitung zum Installieren der Firmware findest du [hier](../anleitung/).
+Unsere Firmware findest du unter <http://images.freifunk-westerwald.de/> . Eine Anleitung zum Installieren der Firmware findest du [hier](../anleitung/).
 
-## Mailingliste
+# Mailingliste
 
 Die Kommunikation läuft hauptsächlich über unsere Mailingliste - eine Art großer E-Mail-Verteiler. Um dich für die Mailingliste zu registrieren, sende eine Mail an general-subscribe @ freifunk-westerwald .de du erhältst dann eine Bestätigungsmail. Auf diese musst du durch klicken auf „Antworten“ mit einer leeren Mail antworten. Ab dann erhältst du alle E-Mails auf der Mailingliste. Wenn du eine neue E-Mail an alle schreiben möchtest, kannst du die Adresse general @ freifunk-westerwald .de benutzen - möchtest du jemandem antworten verwende die Funktion „Liste antworten“ oder „Allen antworten“.
 
-## Rede mit anderen
+# Rede mit anderen
 
 Die Freifunkidee kann sich nur verbreiten, wenn darüber geredet wird. Sprich Freunde und Bekannte an und erzähle ihnen von Freifunk. Jeder aufgestellte Router ist ein Schritt in Richtung eines unabhängigen Netzes.
 
-## Du willst noch mehr machen?
+# Du willst noch mehr machen?
 
-Du hast die Mailingliste abonniert und einen Router aufgestellt, möchtest aber noch mehr machen? Super. Wir suchen immer Leute die uns helfen. Was es bei uns zu tun gibt? Recht viel und gerade abseits vom technischen haben wir viele Baustellen. Neben der Arbeit an unseren Systemen oder der Anpassung unserer Software müssen auch Texte für die Webseite verfasst und korrigiert werden, Flyer erstellt oder Support-Anfragen bearbeitet werden. Auch wenn da jetzt nichts dabei ist, was dich direkt anspricht, komm einfach zu einem unserer Treffen. Wir würden dich gerne kennenlernen und finden dann auch etwas, das zu dir und deinen Fähigkeiten passt.
+Du hast die Mailingliste abonniert und einen Router aufgestellt, möchtest aber noch mehr machen? Super. Wir suchen immer Leute die uns helfen. Was es bei uns zu tun gibt? Recht viel und auch abseits vom technischen haben wir viele Baustellen. Neben der Arbeit an unseren Systemen oder der Anpassung unserer Software müssen auch Texte für die Webseite verfasst und korrigiert werden, Flyer erstellt oder Support-Anfragen bearbeitet werden. Auch wenn da jetzt nichts dabei ist, was dich direkt anspricht, komm einfach zu einem unserer Treffen. Wir würden dich gerne kennenlernen und finden dann auch etwas, das zu dir und deinen Fähigkeiten passt.
