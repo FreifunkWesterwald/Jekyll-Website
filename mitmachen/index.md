@@ -28,7 +28,6 @@ Natürlich kannst du auch zu Hause deinen eigenen Freifunkknoten basteln: Einfac
 Unsere Firmware findest du unter <http://images.freifunk-westerwald.de/> . Eine Anleitung zum Installieren der Firmware findest du [hier](../anleitung/).
 
 # Kommunikation
-https://forum.freifunk.net/c/community/westerwald
 
 Wir kommunizieren hauptsächlich über unsere Mailingliste – eine Art großer E-Mail-Verteiler – und über das Freifunk Forum, indem wir unseren [eigenen Bereich](https://forum.freifunk.net/c/community/westerwald) habe.
 
