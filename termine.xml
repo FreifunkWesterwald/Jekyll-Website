@@ -1,64 +1,6 @@
 <?xml version="1.0"?>
 <monthly>
 
-
-  <event>
-      <id>1</id>
-      <name>Communitytreffen</name>
-      <startdate>2016-11-10</startdate>
-      <enddate>2016-11-10</enddate> <!-- optional -->
-      <starttime>19:00</starttime> <!-- optional -->
-      <endtime>22:00</endtime> <!-- optional -->
-      <color>#ffb128</color> <!-- optional -->
-      <url>communitytreffen</url> <!-- optional -->
-  </event>
-
-
-
-  <event>
-      <id>2</id>
-      <name>Communitytreffen Neuwied</name>
-      <startdate>2016-11-22</startdate>
-      <enddate>2016-11-22</enddate> <!-- optional -->
-      <starttime>19:00</starttime> <!-- optional -->
-      <endtime>22:00</endtime> <!-- optional -->
-      <color>#ffb128</color> <!-- optional -->
-      <url>communitytreffen</url> <!-- optional -->
-  </event>
-
-
-  <event>
-      <id>3</id>
-      <name>Communitytreffen</name>
-      <startdate>2016-12-08</startdate>
-      <enddate>2016-12-08</enddate> <!-- optional -->
-      <starttime>19:00</starttime> <!-- optional -->
-      <endtime>22:00</endtime> <!-- optional -->
-      <color>#ffb128</color> <!-- optional -->
-      <url>communitytreffen</url> <!-- optional -->
-  </event>
-  <event>
-      <id>4</id>
-      <name>Weihnachtsfeier</name>
-      <startdate>2016-12-22</startdate>
-      <enddate>2016-12-22</enddate> <!-- optional -->
-      <starttime>19:00</starttime> <!-- optional -->
-      <endtime>22:00</endtime> <!-- optional -->
-      <color>#ffb128</color> <!-- optional -->
-      <url>communitytreffen</url> <!-- optional -->
-  </event>
-  <event>
-      <id>5</id>
-      <name>33c3</name>
-      <startdate>2016-12-26</startdate>
-      <enddate>2016-12-31</enddate> <!-- optional -->
-      <starttime>00:00</starttime> <!-- optional -->
-      <endtime>23:59</endtime> <!-- optional -->
-      <color>green</color> <!-- optional -->
-      <url>https://events.ccc.de/category/congress/33c3/</url> <!-- optional -->
-  </event>
-
-
   <event>
       <id>1</id>
       <name>Communitytreffen</name>
