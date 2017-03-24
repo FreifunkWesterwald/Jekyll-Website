@@ -39,7 +39,7 @@ Wenn du auf unserem Server eine Liste mit Images gefunden hast sollte das in etw
 
 Die Dateinamen sind immer entsprechender Syntax aufgebaut :
 
-Gluon - ffww - 1.0 - Hersteller – Routertyp – Version .bin
+gluon - ffww - Firmware-Version - Hersteller – Routertyp – Hardware-Version .bin
 
 Dateiendung ist in der Regel immer .bin. In der Liste siehst du noch das Dateidatum und die Dateigröße in MB. Hast du das passende Image für ein Router gefunden, dann lade dieses runter.
 
