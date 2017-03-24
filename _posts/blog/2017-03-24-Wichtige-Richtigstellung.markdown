@@ -29,3 +29,6 @@ Auszug aus einem Bericht an den Ausschuss für Soziales und Jugend, des 1. Stadt
 ## Diese Aussagen bzw. Informationen treffen nicht zu!
 "Freifunk Westerwald“ und "Freifunk Limburg" betreiben keinen Handel und bieten keine Freifunk-Knoten, Freifunk-Routern und auch keine andere Hardware zum Verkauf an!
 "Freifunk Westerwald“ ist eine Community, eine Interessengemeinschaft von mehreren unabhängigen Menschen.
+
+Freifunk ist ein nichtkommerzielles Netz gebaut und betrieben von freiwilligen. Jeder kann teilnehmen, einen Router bei sich aufstellen und damit das Netz erweitern. Entsprechende Router sind im Handel erhältlich und können mit der Freifunkfirmware einfach freifunkfähig gemacht werden.
+Das kannst du einfach selber machen. Solltest du Hilfe brauchen, kannst du und gerne auf einem unserer Treffen besuchen und unser Netz erweitern.
