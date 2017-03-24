@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wichtige Richtigstellung
-author: FabianCernota
+author: cernota
 share: true
 comments: true
 modified:
@@ -22,7 +22,10 @@ Verkauf anbieten.
 
 Bsp.:
 Auszug aus einem Bericht an den Ausschuss für Soziales und Jugend, des 1. Stadtrates der Stadt Limburg, Herrn Michael Stanke (2017-03-02_Nr_17-0087_Vorlage.pdf)
+
 > "Die benötigten vorinstallierten Freifunk-Router können bei Freifunk erworben werden.“
-Diese Aussagen bzw. Informationen treffen nicht zu!
-"Freifunk Westerwald“ und "Freifunk Limburg"  betreiben keinen Handel und bieten keine Freifunk-Knoten, Freifunk-Routern und auch keine andere Hardware zum Verkauf an!
+
+
+## Diese Aussagen bzw. Informationen treffen nicht zu!
+"Freifunk Westerwald“ und "Freifunk Limburg" betreiben keinen Handel und bieten keine Freifunk-Knoten, Freifunk-Routern und auch keine andere Hardware zum Verkauf an!
 "Freifunk Westerwald“ ist eine Community, eine Interessengemeinschaft von mehreren unabhängigen Menschen.
