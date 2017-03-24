@@ -19,7 +19,7 @@ Wenn du ein neuen Router kaufen möchtest, empfehlen wir folgende Modelle :
 
 |Hersteller|Modell|Anwendung|Preis|
 |----------|------|---------|-----| 	
-|TP-Link|WR841N |Einsteigermodell und kleine Anwendungen| < 20 Euro |
+|TP-Link|WR842N |Einsteigermodell und kleine Anwendungen| ca 30 Euro |
 |TP-Link|WR1043ND |für gehobene Ansprüche, 5GHz, für Gastronomie und ähnliches| ca 50 Euro |
 
 
