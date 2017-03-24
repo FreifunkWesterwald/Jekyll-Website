@@ -58,4 +58,48 @@
       <url>https://events.ccc.de/category/congress/33c3/</url> <!-- optional -->
   </event>
 
+
+  <event>
+      <id>1</id>
+      <name>Communitytreffen</name>
+      <startdate>2017-04-06</startdate>
+      <enddate>2017-04-06</enddate> <!-- optional -->
+      <starttime>19:00</starttime> <!-- optional -->
+      <endtime>22:00</endtime> <!-- optional -->
+      <color>#ffb128</color> <!-- optional -->
+      <url>communitytreffen</url> <!-- optional -->
+  </event>
+
+  <event>
+      <id>2</id>
+      <name>Communitytreffen Neuwied</name>
+      <startdate>2017-04-18</startdate>
+      <enddate>2017-04-18</enddate> <!-- optional -->
+      <starttime>19:00</starttime> <!-- optional -->
+      <endtime>22:00</endtime> <!-- optional -->
+      <color>#ffb128</color> <!-- optional -->
+      <url>communitytreffen</url> <!-- optional -->
+  </event>
+
+  <event>
+      <id>3</id>
+      <name>Communitytreffen</name>
+      <startdate>2017-05-04</startdate>
+      <enddate>2017-05-04</enddate> <!-- optional -->
+      <starttime>19:00</starttime> <!-- optional -->
+      <endtime>22:00</endtime> <!-- optional -->
+      <color>#ffb128</color> <!-- optional -->
+      <url>communitytreffen</url> <!-- optional -->
+  </event>
+
+  <event>
+      <id>4</id>
+      <name>Communitytreffen Neuwied</name>
+      <startdate>2017-05-16</startdate>
+      <enddate>2017-05-16</enddate> <!-- optional -->
+      <starttime>19:00</starttime> <!-- optional -->
+      <endtime>22:00</endtime> <!-- optional -->
+      <color>#ffb128</color> <!-- optional -->
+      <url>communitytreffen</url> <!-- optional -->
+  </event>
 </monthly>
