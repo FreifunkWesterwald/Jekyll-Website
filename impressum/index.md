@@ -6,7 +6,7 @@ search_omit: false
 ---
 
 # Angaben gemäß § 5 TMG:  
-Freifunk Westerwald
+Freifunk Westerwald  
 c/o Fabian Cernota  
 Mengweide 6a  
 56422 Wirges  
