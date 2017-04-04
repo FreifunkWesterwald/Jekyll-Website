@@ -6,12 +6,12 @@ search_omit: false
 ---
 
 #Angaben gemäß § 5 TMG:
-
-Fabian Cernota
-Mengweide 6a
-56422 Wirges
+Freifunk Westerwald
+c/o Fabian Cernota  
+Mengweide 6a  
+56422 Wirges  
 
 Kontakt:
-Telefon: 016090440834
+Telefon: 016091083657  
 E-Mail: fabian@freifunk-westerwald.de
 
