@@ -1,6 +1,8 @@
 #build dir
 _site
 termine.ics
+Gemfile.lock
+package-lock.json
 
 #temporary
 tmp
@@ -15,6 +17,9 @@ codekit-config.json
 
 #ruby stuff
 messages.pot
+
+#jekyll
+.jekyll-cache
 
 #npm
 node_modules
