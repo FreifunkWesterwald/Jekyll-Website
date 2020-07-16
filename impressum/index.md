@@ -7,11 +7,10 @@ search_omit: false
 
 # Angaben gemäß § 5 TMG:  
 Freifunk Westerwald  
-c/o Fabian Cernota  
-Mengweide 6a  
-56422 Wirges  
+c/o Patric Steffen
+Friedrichstraße 13
+57639 Rodenbach-Udert
 
 Kontakt:
-Telefon: 016091083657  
-E-Mail: fabian@freifunk-westerwald.de
+E-Mail: patric@freifunk-westerwald.de
 

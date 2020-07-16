@@ -2,10 +2,10 @@
   "name": "Freifunk Westerwald",
   "url": "https://freifunk-westerwald.de",
   "location": {
-    "city": "Montabaur",
+    "city": "Ransbach-Baumbach",
     "country": "DE",
-    "lat": 50.436079,
-    "lon": 7.830505
+    "lat": 50.462680,
+    "lon": 7.724653
   },
   "contact": {
     "email": "support@freifunk-westerwald.de",
@@ -22,7 +22,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2017-18-03T17:41:00.004Z"
+    "lastchange": "2020-07-15T17:41:00.004Z"
   },
   "feeds": [
     {
@@ -42,7 +42,7 @@
   ],
   "socialprojects": {
     "number": 3,
-    "contact": "fabian@freifunk-westerwald.de"
+    "contact": "todo@freifunk-westerwald.de"
   },
   "techDetails": {
     "firmware": {
