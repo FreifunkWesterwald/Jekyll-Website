@@ -20,7 +20,7 @@ Der Aufbau eines Freifunkknotens lohnt sich immer. Wir haben schon häufig festg
 
 ### Ich habe Probleme mit meinem Router oder dem Netz. An wen kann ich mich wenden?
 
-Du kannst eine E-Mail an support @ freifunk-westerwald.de schreiben oder ein Ticket unter <https://tickets.freifunk-westerwald.de/> eröffnen.
+Du kannst eine E-Mail an support @ freifunk-westerwald.de schreiben.
 
 ### Wie rechtfertigt ihr Urheberrechtsverletzungen, welche über das Freifunknetz begangen werden können?
 

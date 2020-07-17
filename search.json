@@ -21,7 +21,6 @@ sitemap: false
       "link"			: "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
       "excerpt"		: "{{ page.excerpt }}",
       "content"                 : "{{ page.content | strip_html | strip_newlines }}"
-
     }
   {%endif%}
 {% endfor %}

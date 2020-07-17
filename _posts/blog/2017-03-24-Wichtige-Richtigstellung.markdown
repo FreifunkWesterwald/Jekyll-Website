@@ -6,7 +6,7 @@ share: true
 comments: true
 modified:
 categories: blog
-excerpt:
+excerpt: Wichtige Richtigstellung
 tags: []
 image:
   feature:

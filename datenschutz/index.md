@@ -5,7 +5,7 @@ title: Datenschutz
 search_omit: false
 ---
 
-#Datenschutz im Freifunknetz
+### Datenschutz im Freifunknetz
 
 Bei der Nutzung unseres Netzes sammeln wir keinerlei personenbezogene Daten, insbesondere keine die Rückschlüsse auf das Nutzungsverhalten der Nutzer zulassen.
 
@@ -16,19 +16,19 @@ Für die Registrierung bzw. Konfiguration eines Knotens wird die Angabe einer E-
 Zusätzlich erfassen wir statistische Betriebsdaten der einzelnen Router, die an unserem Netz betrieben werden. Wie in allen Freifunknetzen, stehen die aktuellen Daten öffentlich zur Verfügung.
 
 Dazu zählen:
-    Routername
-    Erzeugtes Datenvolumen
-    Anzahl der Verbundenen Endgeräte
-    Links zu anderen Routern
-    Nutzerzahlen
-    Technischer Zustand des Routers (Auslastung, Speicherplatz, Softwareversionen usw.)
+- Routername
+- Erzeugtes Datenvolumen
+- Anzahl der Verbundenen Endgeräte
+- Links zu anderen Routern
+- Nutzerzahlen
+- Technischer Zustand des Routers (Auslastung, Speicherplatz, Softwareversionen usw.)
 
 Da das Freifunknetz auch mit dem Internet verbunden ist, bestehen hier mindestens die gleichen Gefahren wie bei der regulären Internetnutzung. Da die Nutzung eines Freifunkknotens genauso wie die Nutzung eines kommerziellen WLAN-Hotspots mit gewissen Risiken verbunden ist, empfehlen wir die Nutzung von zusätzlichen Schutzmaßnahmen. Hinweise zur Sicherheit in Öffentlichen Netzwerken finden sie unter [Sicherheit](/sicherheit)
 
 Sollten wir aufgrund von gesetzlichen Vorgaben bzw. durch Ermittlungsbehörden dazu aufgefordert werden, behalten wir uns das Recht vor weitere Daten zu erfassen und ggf. an diese weiterzuleiten.
 
 
-#Datenschutz Website
+### Datenschutz Website
 
 Für uns stellt der Datenschutz ein wichtiges Gut dar. Daher legen wir viel Wert darauf, dass nur so viele Daten wie nötig erfasst werden.
 

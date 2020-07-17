@@ -4,8 +4,8 @@
   <event>
       <id>1</id>
       <name>Communitytreffen</name>
-      <startdate>2017-04-06</startdate>
-      <enddate>2017-04-06</enddate> <!-- optional -->
+      <startdate>2020-08-11</startdate>
+      <enddate>2020-08-11</enddate> <!-- optional -->
       <starttime>19:00</starttime> <!-- optional -->
       <endtime>22:00</endtime> <!-- optional -->
       <color>#ffb128</color> <!-- optional -->
@@ -15,8 +15,8 @@
   <event>
       <id>2</id>
       <name>Communitytreffen Neuwied</name>
-      <startdate>2017-04-18</startdate>
-      <enddate>2017-04-18</enddate> <!-- optional -->
+      <startdate>2020-09-08</startdate>
+      <enddate>2020-09-08</enddate> <!-- optional -->
       <starttime>19:00</starttime> <!-- optional -->
       <endtime>22:00</endtime> <!-- optional -->
       <color>#ffb128</color> <!-- optional -->
@@ -26,8 +26,8 @@
   <event>
       <id>3</id>
       <name>Communitytreffen</name>
-      <startdate>2017-05-04</startdate>
-      <enddate>2017-05-04</enddate> <!-- optional -->
+      <startdate>2020-10-13</startdate>
+      <enddate>2020-10-13</enddate> <!-- optional -->
       <starttime>19:00</starttime> <!-- optional -->
       <endtime>22:00</endtime> <!-- optional -->
       <color>#ffb128</color> <!-- optional -->
@@ -37,8 +37,8 @@
   <event>
       <id>4</id>
       <name>Communitytreffen Neuwied</name>
-      <startdate>2017-05-16</startdate>
-      <enddate>2017-05-16</enddate> <!-- optional -->
+      <startdate>2020-11-10</startdate>
+      <enddate>2020-11-10</enddate> <!-- optional -->
       <starttime>19:00</starttime> <!-- optional -->
       <endtime>22:00</endtime> <!-- optional -->
       <color>#ffb128</color> <!-- optional -->

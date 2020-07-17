@@ -7,10 +7,10 @@ search_omit: false
 
 # Angaben gemäß § 5 TMG:  
 Freifunk Westerwald  
-c/o Patric Steffen
-Friedrichstraße 13
-57639 Rodenbach-Udert
+c/o Patric Steffen  
+Friedrichstraße 13  
+57639 Rodenbach-Udert  
 
-Kontakt:
+### Kontakt:  
 E-Mail: patric@freifunk-westerwald.de
 

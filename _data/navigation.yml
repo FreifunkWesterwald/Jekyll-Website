@@ -3,8 +3,8 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
 - title: Termine
   url: /termine/
@@ -12,11 +12,11 @@
 - title: Mitmachen
   url: /mitmachen/
 
-- title: Installation
-  url: /anleitung/
+#- title: Installation
+#  url: /anleitung/
 
-- title: Netzstatus
-  url: /status/
+#- title: Netzstatus
+#  url: /status/
 
 - title: Sicherheit
   url: /sicherheit/

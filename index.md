@@ -28,20 +28,12 @@ Internet steht meistens zur Verfügung.
 
 # Aufbau Freifunk Westerwald
 
-Seit Ende 2015 sind wir als lose organisierte Gruppe als Freifunker aktiv.
-Zu erst betrieben wir keine komplett eigene Infrastruktur, sondern nutzten
-die Infrastruktur von Freifunk Mayen Koblenz mit. Mittlerweile sind wir aber auf eine eigene Server umgezogen. Firmware bieten wir für die Kreise Altenkirchen, Limburg, Neuwied und den Westerwaldkreis an.
+Bereits Ende 2015 gab es eine lose organisierte Gruppe, die als Freifunker aktiv war.
+Damals betrieben als Teil der Infrastruktur des Freifunk Mayen Koblenz und später mit eigener Infrastruktur mit Firmware für die Kreise Altenkirchen, Limburg, Neuwied und den Westerwaldkreis.
+2018 ist die Freifunk Community im Westerwald inaktiv geworden und die meisten Services mussten eingestellt werden.
+
+Im Sommer 2020 fand sich jedoch eine neue Gruppe, mit neuer Infrastruktur, die seit dem den Freifunk Westerwald wieder kontinuierlich aufbaut und erweitert.
 
 Wenn du möchtest, kannst du dich unserem Vorhaben anschließen und uns beim
 Aufbau eines Freifunk-Netzes im Westerwald unterstützen. Wie du das am besten
 tust, findest du [hier](/mitmachen).
-
-
-# Unterstützung von Flüchtlingsunterkünften
-
-Die aktuelle Flüchtlingssituation geht auch an uns im Westerwald nicht spurlos
-vorbei. Wir haben bereits mehrere Unterkünfte an unser Netz angeschlossen und
-stellen damit einen unkomplizierten und freien Internetzugang für die Bewohner
-bereit. Solltest du zuständig für eine Flüchtlingsunterkunft sein, jemanden
-kennen der eine betreut oder in der Nähe wohnen, melde dich bitte bei uns, damit
-wir solche Projekte weiter vorantreiben können. Vorab vielen Dank.
