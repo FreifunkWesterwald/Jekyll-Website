@@ -3,7 +3,7 @@ layout: page
 title: Netzstatus
 excerpt: "Unser Netzstatus"
 modified: 2014-08-08T19:44:38.564948-04:00
-search_omit: false
+search_omit: true
 ---
 Wenn du mehr zu unserer Infrastruktur erfahren möchtest komme doch einfach mal zu einem unserer Treffen.
 # Karte

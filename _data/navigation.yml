@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-#- title: Blog
-#  url: /blog/
+- title: Blog
+  url: /blog/
 
-- title: Termine
-  url: /termine/
+#- title: Termine
+#  url: /termine/
 
 - title: Mitmachen
   url: /mitmachen/

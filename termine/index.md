@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "Termine, Treffen, Techniktreffen, Kalender, Stammtisch"
-search_omit: false
+search_omit: true
 title: Unsere Termine
 calendar: true
 ---
