@@ -6,7 +6,7 @@ share: true
 comments: true
 modified:
 categories: blog
-excerpt: Community Reboot - Erste Schritte
+excerpt: Freifunk Westerwald startet neu! Alle Informationen dazu und wie es weiter geht, erfährst du hier.
 tags: []
 image:
   feature:
