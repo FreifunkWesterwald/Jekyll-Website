@@ -3,7 +3,7 @@
 title: Freifunk Westerwald
 locale: de_DE
 description: Freifunk. Verbindet. Menschen.
-logo: favicon-196x196.png
+logo: site-logo.png
 search: true
 url: http://localhost:4000
 
