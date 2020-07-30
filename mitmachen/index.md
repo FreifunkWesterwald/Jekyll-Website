@@ -19,7 +19,7 @@ Oftmals stellt sich die Frage wie es um den rechtlichen Rahmen bestellt ist, wen
 
 ## Freifunk-Router Abholen (empfohlen)
 
-Auf unseren Treffen sind meist Router aus einer Sammelbestellung zu bekommen. Ein Treffen bietet dir auch die Möglichkeit, bei einem kühlen oder heißen Getränk nützliche Tipps zum optimalen Freifunk-Betrieb zu erhalten oder offene Fragen zu klären. Dabei kannst du auch direkt die Community hinter Freifunk Westerwald kennenlernen und neue Kontakte knüpfen. Die Termine dazu findest du [hier](/termine). Zwecks erleichterter Planung wäre es vorteilhaft, wenn du uns vorher mitteilst, dass du an einem Treffen teilnimmst.
+Auf unseren Treffen sind meist Router aus einer Sammelbestellung zu bekommen. Ein Treffen bietet dir auch die Möglichkeit, bei einem kühlen oder heißen Getränk nützliche Tipps zum optimalen Freifunk-Betrieb zu erhalten oder offene Fragen zu klären. Dabei kannst du auch direkt die Community hinter Freifunk Westerwald kennenlernen und neue Kontakte knüpfen. <!--Die Termine dazu findest du [hier](/termine). -->Zwecks erleichterter Planung wäre es vorteilhaft, wenn du uns vorher mitteilst, dass du an einem Treffen teilnimmst.
 
 ## Freifunk-Router selbst machen
 
