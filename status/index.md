@@ -9,4 +9,4 @@ Wenn du mehr zu unserer Infrastruktur erfahren möchtest komme doch einfach mal 
 # Karte
 Die Freifunkkarte zeigt die Standorte der meisten Router in unserem Netz sowie einige Informationen zu deren Auslastung. Erreichen kannst du sie unter
 
-[http://map.freifunk-westerwald.de/](http://map.freifunk-westerwald.de/)
+[https://map.freifunk-westerwald.de/](https://map.freifunk-westerwald.de/#!/de/map)

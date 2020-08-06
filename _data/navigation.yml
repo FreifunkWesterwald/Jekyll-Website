@@ -15,8 +15,8 @@
 #- title: Installation
 #  url: /anleitung/
 
-#- title: Netzstatus
-#  url: /status/
+- title: Netzstatus
+  url: /status/
 
 - title: Sicherheit
   url: /sicherheit/
