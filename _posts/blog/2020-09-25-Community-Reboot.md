@@ -10,7 +10,7 @@ excerpt: Erstes Treffen nach dem Neustart! Wir haben ein Netz und mit euch wolle
 tags: []
 image:
   feature:
-date: 2020-10-25T10:56:15+01:00
+date: 2020-09-25T10:56:15+01:00
 ---
 
 Nachdem wir neulich bereits angeteasert haben, dass es bald losgeht, freuen wir uns euch hiermit zu unserem ersten Community-Treffen einzuladen. Auf dem Treffen möchten wir euch kennenlernen und uns besser vernetzen. Außerdem wollen wir Freifunk und natürlich unser neu aufgebautes Netz vorstellen, dass seit einigen Tagen voll funktionsfähig ist und nun auch von jedermann selbst ausprobiert werden kann. 
