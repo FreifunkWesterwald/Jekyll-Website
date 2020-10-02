@@ -1,0 +1,89 @@
+{
+    "name": "Freifunk Altenkirchen",
+    "url": "https://freifunk-westerwald.de/",
+    "location": {
+        "city": "Ransbach-Baumbach",
+        "country": "DE",
+        "lat": 50.462582,
+        "lon": 7.724614,
+        "address": {
+            "Name": "Westwoodlabs e.V.",
+            "Street": "Rheinstraße 96",
+            "Zipcode": "56235"
+        }
+    },
+    "contact": {
+        "email": "general@freifunk-westerwald.de",
+        "facebook": "https://www.facebook.com/FreifunkWesterwald/",
+        "twitter": "@FreifunkWW"
+    },
+    "metacommunity": "Freifunk Westerwald",
+    "state": {
+        "nodes": 3,
+        "focus": [
+            "infrastructure/backbone",
+            "Public Free Wifi",
+            "Social Community Building",
+            "Free internet access"
+        ],
+        "lastchange": "2020-09-27T19:13:39.065Z"
+    },
+    "timeline": [
+        {
+            "description": "First date of birth",
+            "timestamp": "2015-10-09"
+        },
+        {
+            "description": "Date of death",
+            "timestamp": "2018-10-09"
+        },
+        {
+            "description": "2nd date of birth",
+            "timestamp": "2020-07-22"
+        }
+    ],
+    "feeds": [
+        {
+            "name": "Webseite",
+            "category": "blog",
+            "type": "rss",
+            "url": "https://freifunk-westerwald.de/feed.xml"
+        }
+    ],
+    "nodeMaps": [
+        {
+            "url": "https://map.freifunk-westerwald.de/",
+            "interval": "1m",
+            "technicalType": "meshviewer",
+            "mapType": "geographical"
+        }
+    ],
+    "support": {
+        "club": {
+            "name": "Westwoodlabs e.V.",
+            "street": "Rheinstraße 96",
+            "zip": "56235",
+            "city": "Ransbach-Baumbach",
+            "url": "https://westwoodlabs.de/",
+            "email": "vorstand@westwoodlabs.de"
+        }
+    },
+    "techDetails": {
+        "firmware": {
+            "name": "Gluon",
+            "url": "https://firmware.freifunk-westerwald.de/",
+            "docs": "https://firmware.freifunk-westerwald.de/",
+            "vpnaccess": "fwimage"
+        },
+        "routing": [
+            "Babel",
+            "batman-adv"
+        ],
+        "updatemode": [
+            "manual",
+            "autoupdate"
+        ],
+        "legals": []
+    },
+    "api": "0.4.14"
+}
