@@ -29,9 +29,9 @@ Unsere Firmware findest du unter <https://firmware.freifunk-westerwald.de/>. <!-
 
 # Kommunikation
 
-<!-- TODO Wir kommunizieren hauptsächlich über unsere Mailingliste – eine Art großer E-Mail-Verteiler – und über das Freifunk Forum, indem wir unseren [eigenen Bereich](https://forum.freifunk.net/c/community/westerwald) haben.
+Wir kommunizieren hauptsächlich über unsere Mailingliste – eine Art großer E-Mail-Verteiler <!-- TODO – und über das Freifunk Forum, indem wir unseren [eigenen Bereich](https://forum.freifunk.net/c/community/westerwald) haben. -->
 
-Um dich für die Mailingliste zu registrieren, sende einfach eine Mail an general-subscribe @ freifunk-westerwald . de. Du erhältst dann eine Bestätigungsmail auf die du mit einer leeren Mail antworten musst. Ab dann erhältst du alle E-Mails auf der Mailingliste. Wenn du eine E-Mail an alle schreiben möchtest, kannst du die Adresse general @ freifunk-westerwald . de benutzen, möchtest du jemandem antworten verwende die Funktion „Liste antworten“ oder „Allen antworten“.-->
+Um dich für die Mailingliste zu registrieren, sende einfach eine Mail an general-subscribe @ freifunk-westerwald . de. Du erhältst dann eine Bestätigungsmail auf die du mit einer leeren Mail antworten musst. Ab dann erhältst du alle E-Mails auf der Mailingliste. Wenn du eine E-Mail an alle schreiben möchtest, kannst du die Adresse general @ freifunk-westerwald . de benutzen, möchtest du jemandem antworten verwende die Funktion „Liste antworten“ oder „Allen antworten“.
 
 Außerdem haben wir, für Smalltalk und um Kleinigkeiten zu klären, noch einen [IRC Chanel (#freifunkww auf hackint.org)](https://webirc.hackint.org/#freifunkww) und eine [Telegram](https://telegram.org/) Gruppe die mit dem IRC synchronisiert wird. Um in die Telegram Gruppe zu kommen, kannst du diesen Link verwenden: <https://t.me/freifunkww>
 
